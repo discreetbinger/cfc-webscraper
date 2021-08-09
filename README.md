@@ -13,9 +13,13 @@ The challenge involves writing a program that:
 ## Setup and running instructions
 
 1. Install the required dependencies.
-`$ pip install -r requirements.txt`
+
+    `$ pip install -r requirements.txt`
 
 2. Execute the program
-`$ python webscraper.py`
 
-3. Find the JSON output files `external_resources.json` and `word_frequency.json` created in the current directory.
+    `$ python webscraper.py`
+
+3. Find the JSON output files created in the current directory.
+
+    `external_resources.json` and `word_frequency.json`
