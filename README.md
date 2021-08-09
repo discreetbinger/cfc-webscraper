@@ -16,7 +16,7 @@ The challenge involves writing a program that:
 
     `$ pip install -r requirements.txt`
 
-2. Execute the program
+2. Execute the program.
 
     `$ python webscraper.py`
 
